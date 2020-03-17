@@ -14,6 +14,8 @@ public class TestClass {
         System.out.println(".....................");
         System.out.println(".....................");
         System.out.println(".....................");
+        Integer num = 20;
+        num += 20 + 20 +20;
     }
 
     public void test(){
