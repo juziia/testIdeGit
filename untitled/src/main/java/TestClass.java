@@ -22,5 +22,8 @@ public class TestClass {
         Integer i = 10;
         i += 20+20;
         System.out.println("-------------------------------");
+        System.out.println("-------------------------------");
+        System.out.println("-------------------------------");
+        System.out.println("-------------------------------");
     }
 }
