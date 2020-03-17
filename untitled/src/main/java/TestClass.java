@@ -12,6 +12,8 @@ public class TestClass {
         System.out.println("hello git ");
         System.out.println("hello world");
         System.out.println(".....................");
+        System.out.println(".....................");
+        System.out.println(".....................");
     }
 
     public void test(){
