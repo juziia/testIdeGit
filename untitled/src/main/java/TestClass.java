@@ -19,5 +19,6 @@ public class TestClass {
     public void test(){
         Integer i = 10;
         i += 20+20;
+        System.out.println("-------------------------------");
     }
 }
